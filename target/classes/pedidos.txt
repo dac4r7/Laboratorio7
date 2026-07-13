@@ -1,0 +1,10 @@
+Nro de PEDIDO: 0
+Nro de PEDIDO: 1
+
+ CLIENTE : Daniela Wirzt
+ CANAL : web
+ IMPORTE : 26500.0
+
+ CLIENTE : Mora Quevedo
+ CANAL : redes_sociales
+ IMPORTE : 35500.0
